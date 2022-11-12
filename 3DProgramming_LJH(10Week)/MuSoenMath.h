@@ -12,7 +12,7 @@ public:
             for (int j = 0; j < 3; j++) {
                 Mat[i][j] = 0; // 멤버 변수 초기화
             }
-        }
+        } 
     }
     void Reset() { // 행렬 초기화 함수
         for (int i = 0; i < 3; i++) {
