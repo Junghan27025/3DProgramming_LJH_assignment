@@ -31,7 +31,7 @@ int main()
         for (j = 0; j < m; j++)\
             printf("%d\t", transpose[i][j]);
         printf("\n");
-    }
+    } 
     return 0;
 }
 
