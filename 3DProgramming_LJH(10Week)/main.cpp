@@ -12,7 +12,7 @@ void main() {
 	Vector = Vector * Matrix;// 연산자 오버로딩으로 백터와 행렬 계산
 	Matrix.Scale(2); // 크기를 2배로 확대
 	Vector = Vector * Matrix;// 연산자 오버로딩으로 백터와 행렬 계산
-
+	 
 	cout << fixed;
 	cout.precision(0); // 소수점 제거
 
