@@ -25,13 +25,13 @@ int main()
         printf("\n");
     }
     printf("\n");
-       
+
     //전치행렬 바꾼 후 행렬
     for (i = 0; i < n; i++) {
         for (j = 0; j < m; j++)\
             printf("%d\t", transpose[i][j]);
         printf("\n");
-    } 
+    }
     return 0;
 }
 

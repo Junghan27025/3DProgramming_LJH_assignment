@@ -23,5 +23,17 @@
     <ClInclude Include="MuSoenMath.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="단위행렬.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="전치행렬.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="multiplymatrix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="multiplytransposematrix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
