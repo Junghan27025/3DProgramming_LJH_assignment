@@ -1,7 +1,6 @@
 #include "MuSoenMath.h"
 #include <iostream>
-//#include"multiplymatrix.h"
-//#include"multiplytransposematrix.h"
+
 
 void main() {
 	multiplyTransposeMatrix();
