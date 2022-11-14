@@ -204,7 +204,7 @@ void multiplyMatrix() {
             result[i][j] = sum;
         }
     }
-
+     
     // 행렬 곱 출력
     cout << endl << "| 출력값 | " << "\n\n";
     for (int i = 0; i < 3; ++i) {

@@ -142,11 +142,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="multiplymatrix.h" />
-    <ClInclude Include="multiplytransposematrix.h" />
     <ClInclude Include="MuSoenMath.h" />
-    <ClInclude Include="단위행렬.h" />
-    <ClInclude Include="전치행렬.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
