@@ -4,7 +4,7 @@
 using namespace std;
 
 #define N 3        // 
-
+ 
 void multiply(int arr1[][N], int arr2[][N], int arr3[][N]) {
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < N; j++) {
